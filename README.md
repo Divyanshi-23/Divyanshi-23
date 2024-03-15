@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">tech Stack </h3>
+<h3 align="center">Tech Stack </h3>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="center">Hello World!!</h3>
+<h3 align="center">Visitor's Count</h3>
 
 ###
 
