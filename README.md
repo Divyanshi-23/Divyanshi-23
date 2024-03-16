@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left"><ul>Currently: Btech student at Baderia Global Institute of Engineering and Management</ul></p>
+<p align="left">Currently: Btech student at Baderia Global Institute of Engineering and Management</p>
 
 ###
 
