@@ -23,15 +23,15 @@
 
 ###
 
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">Hey👋</h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I am Divyanshi</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"><ol>Currently: Btech student at Baderia Global Institute of Engineering and Management</ol></p>
 
 ###
 
