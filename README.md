@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">I am currently learning Data Structures and Algorithms on leetcode;</p>
+<p align="left">Also I am enhancing my knowledge in Data Structures and Algorithms on leetcode;</p>
 
 ###
 <!--
