@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="center">Hey👋</h3>
+<h3 align="center">Glad to see you here👋</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Currently: Btech student at Baderia Global Institute of Engineering and Management</p>
+<p align="left">I am a Btech student at Baderia Global Institute of Engineering and Management</p>
 
 ###
 
@@ -80,11 +80,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I am cuurently learning Java Advance;</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I am currently learning Data Structures and Algorithms on leetcode;</p>
 
 ###
 <!--
